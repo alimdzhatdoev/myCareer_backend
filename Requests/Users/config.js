@@ -1,0 +1,1 @@
+export default {secret : "SECRET_VALIDATION_KEY_RANDOM"};
